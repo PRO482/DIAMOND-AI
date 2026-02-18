@@ -1,0 +1,8 @@
+{
+  "name": "DIAMOND AI",
+  "description": "A sophisticated AI assistant for solving daily problems, math, and information retrieval with high-end graphics and generative capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
